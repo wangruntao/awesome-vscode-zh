@@ -93,20 +93,10 @@
 
 ## 🤲 如何贡献
 
-我们欢迎所有对 VSCode 插件感兴趣的开发者参与贡献：
+如果你也有好用的插件想要分享，欢迎提交issue！
 
-1. Fork 本仓库
-2. 创建你的特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交你的改动 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启一个 Pull Request
-
-## 📝 许可证
-
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
 
 ## 感谢
 
 1. [awesome-vscode](https://github.com/viatsko/awesome-vscode) 项目，本项目参考了该项目部分内容。
 2. [cursor](https://www.cursor.com/) ，科技改变生活，这个工具帮我完成了不少工作。
-3. [ScreenToGif](https://github.com/NickeManarin/ScreenToGif),本项目中的gif图片都是用这个工具录制的。
