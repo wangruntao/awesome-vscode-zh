@@ -298,8 +298,8 @@
 
 | 插件名称 | 描述 | 下载量 | 评分 | 操作 |
 |---------|------|--------|------|------|
-| [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) | ![Downloads](https://img.shields.io/visual-studio-marketplace/d/ms-azuretools.vscode-docker) | ![Rating](https://img.shields.io/visual-studio-marketplace/r/ms-azuretools.vscode-docker) | [详细](./plugins/tools/docker/docker.md) |
-| [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) | ![Downloads](https://img.shields.io/visual-studio-marketplace/d/ms-kubernetes-tools.vscode-kubernetes-tools) | ![Rating](https://img.shields.io/visual-studio-marketplace/r/ms-kubernetes-tools.vscode-kubernetes-tools) | [详细](./plugins/tools/kubernetes/kubernetes.md) |
+| [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) | Docker容器管理和开发工具 | ![Downloads](https://img.shields.io/visual-studio-marketplace/d/ms-azuretools.vscode-docker) | ![Rating](https://img.shields.io/visual-studio-marketplace/r/ms-azuretools.vscode-docker) | [详细](./plugins/tools/docker/docker.md) |
+| [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) | K8s集群管理和部署工具 | ![Downloads](https://img.shields.io/visual-studio-marketplace/d/ms-kubernetes-tools.vscode-kubernetes-tools) | ![Rating](https://img.shields.io/visual-studio-marketplace/r/ms-kubernetes-tools.vscode-kubernetes-tools) | [详细](./plugins/tools/kubernetes/kubernetes.md) |
 
 ## 工具类扩展
 
